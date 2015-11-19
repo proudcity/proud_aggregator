@@ -1,0 +1,6 @@
+name = Proud Aggregator
+description = Integrates with the Proud Aggregator API to store social and geospatial data
+core = 7.x
+package = Proud
+; @todo: cURL dependencies[] = ctools
+
